@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 053d310f426c4b8459cd32f46e3491d4, type: 3}
+  m_Name: Player 2-1
+  m_EditorClassIdentifier: 
+  PlayerID: 1
+  UnitData:
+  - {fileID: 11400000, guid: 116cab468bf19cb469df692c388397cc, type: 2}
+  - {fileID: 11400000, guid: b96ddc7bed9d5ba49a189594338513b7, type: 2}
+  - {fileID: 11400000, guid: 04c4bc1ac1b00f1478a9404bcb77491c, type: 2}
+  UnitPositions:
+  - {x: -6, y: 1.2, z: 0}
+  - {x: -4, y: 0, z: 0}
+  - {x: -6, y: -2, z: 0}
